@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1664341855 source:c:\users\licong\desktop\cryptography\lab\cryptography-labs-master\stupkt\lab1-aes\lab1-aes.c
+	<stdio.h>
+	"unistd.h"
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1664341855 source:d:\projectdata\codeblocksprojects\cryptographylab\lab1-aes\lab1-aes.c
+	<stdio.h>
+	"unistd.h"
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
